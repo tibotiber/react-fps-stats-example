@@ -1,0 +1,1 @@
+This is a basic example for [react-fps-stats](https://github.com/tibotiber/react-fps-stats). See it on [CodeSandbox])(https://codesandbox.io/embed/github/tibotiber/react-fps-stats-example/tree/master/).
